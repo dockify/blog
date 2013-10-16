@@ -1,0 +1,5 @@
+name: Bits and pieces
+markdown: redcarpet
+pygments: true
+paginate: 15
+baseurl: http://www.ciokan.com
