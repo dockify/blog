@@ -27,6 +27,8 @@ p { margin: 1em 0; }
 
 img {
   text-align: center;
+  margin: auto;
+  display: block;
 }
 
 a         { color: #00a; }
