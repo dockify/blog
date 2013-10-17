@@ -1,4 +1,4 @@
-name: Bits and pieces
+name: dockify.it blog
 markdown: redcarpet
 pygments: true
 paginate: 15
