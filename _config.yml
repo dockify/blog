@@ -2,4 +2,4 @@ name: Bits and pieces
 markdown: redcarpet
 pygments: true
 paginate: 15
-baseurl: http://blog.dickify.it
+baseurl: http://blog.dockify.it
