@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What's behind dockify.it"
-date:   2013-10-18 19:51:49
+date:   2013-10-21 19:51:49
 categories: dockify docker docker-registry infrastructure
 ---
 
