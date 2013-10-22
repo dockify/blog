@@ -2,4 +2,4 @@ name: dockify.it blog
 markdown: redcarpet
 pygments: true
 paginate: 15
-baseurl: http://blog.dockify.it
+baseurl: http://blog.dockify.io
